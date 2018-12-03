@@ -1,0 +1,7 @@
+D:\C#\on4th\Calcultor\Calcultor\obj\Debug\Calcultor.csprojAssemblyReference.cache
+D:\C#\on4th\Calcultor\Calcultor\obj\Debug\Calcultor.csproj.CoreCompileInputs.cache
+D:\C#\on4th\Calcultor\Calcultor\bin\Debug\Calcultor.exe.config
+D:\C#\on4th\Calcultor\Calcultor\bin\Debug\Calcultor.exe
+D:\C#\on4th\Calcultor\Calcultor\bin\Debug\Calcultor.pdb
+D:\C#\on4th\Calcultor\Calcultor\obj\Debug\Calcultor.exe
+D:\C#\on4th\Calcultor\Calcultor\obj\Debug\Calcultor.pdb
